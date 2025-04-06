@@ -5,7 +5,9 @@
 *por FranciscoReyne*
 
 ---
+
 *ATENCIÓN !!!: ESTE PROYECTO ESTÁ EN CONSTRUCCIÓN.-*
+
 ---
 
 Para desarrollar una réplica modular de ClickUp en Python. Primero, te presentaré el pseudocódigo general y luego podemos ir desarrollando cada sección.
