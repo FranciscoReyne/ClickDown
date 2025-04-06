@@ -86,7 +86,7 @@ Para un proyecto de esta envergadura, te recomendaría usar:
 
 Empecemos desarrollando la estructura base y el módulo de usuarios para tener una base sólida.
 
-# Estructura base y el módulo de usuarios
+# Parte 1 y 2: Estructura base y el módulo de usuarios
 
 
 ## Estructura base y el módulo de usuarios para nuestra réplica de ClickUp.
