@@ -2,6 +2,7 @@
 ClickDown es una aplicación python opensource para gestion online de trabajos en equipo.
 
 por FranciscoReyne
+
 ---
 *ATENCIÓN !!!: ESTE PROYECTO ESTÁ EN CONSTRUCCIÓN.-*
 ---
