@@ -1,4 +1,4 @@
-## Pseudocódigo para Módulo de Espacios de Trabajo (Workspaces)
+## Pseudocódigo para Módulo de Espacios de Trabajo (Workspaces).
 
 ### 1. Modelo de Workspace (workspace.py)
 ```
