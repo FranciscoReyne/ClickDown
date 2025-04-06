@@ -691,7 +691,7 @@ Ahora vamos a diseñar el pseudocódigo para el módulo de espacios de trabajo (
 
 Para no extender tanto este documento he creado uno propio para la Parte 3: Implementar el módulo de espacios de trabajo (workspaces).
 
-[Ir al Workspace](https://github.com/FranciscoReyne/ClickDown/blob/main/2_WorkSpaces)
+[Ir a Parte 3: Workspace](https://github.com/FranciscoReyne/ClickDown/blob/main/parte-3_WorkSpaces)
 
 
 
