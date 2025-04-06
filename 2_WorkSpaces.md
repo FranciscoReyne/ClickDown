@@ -176,12 +176,13 @@ Este pseudocódigo proporciona una estructura completa para el módulo de espaci
 5. La integración con el módulo de usuarios existente
 
 ---
+---
 
-## implementación del código: Módulo de espacios de trabajo (workspaces)
+
+# Implementación del código: Módulo de espacios de trabajo (workspaces)
 
 Procedamos con la implementación del código para el módulo de espacios de trabajo (workspaces). Este es efectivamente el paso 1 para construir esta funcionalidad en nuestra réplica de ClickUp.
 
----
 
 ## Explicación del Módulo de Workspaces
 
