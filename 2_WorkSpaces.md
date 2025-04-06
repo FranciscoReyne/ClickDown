@@ -213,7 +213,7 @@ Implementaremos el módulo completo de espacios de trabajo (workspaces) para nue
 5. **Actualización de app/__init__.py**:
    - Registra el nuevo blueprint de workspaces en la aplicación
 
-## Características implementadas:
+## Características a implementar:
 
 1. **Gestión completa de espacios de trabajo**:
    - Crear, leer, actualizar y eliminar workspaces
