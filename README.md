@@ -692,10 +692,12 @@ Para implementar el módulo de espacios de trabajo (workspaces), necesitaremos d
 
 No es simplemente integrar los códigos actuales, sino desarrollar nuevos componentes que se conectarán con la estructura que ya tenemos. El código actual proporciona la base sobre la cual construiremos los nuevos módulos de forma incremental.
 
+---
+
 Ahora vamos a diseñar el pseudocódigo para el módulo de espacios de trabajo (workspaces) antes de implementarlo. Esto nos ayudará a tener una visión clara de lo que necesitamos desarrollar.
 
 
-ir a: 
+[Ir al Workspace](https://github.com/FranciscoReyne/ClickDown/blob/main/2_WorkSpaces)
 
 
 
