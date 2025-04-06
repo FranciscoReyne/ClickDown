@@ -685,7 +685,7 @@ Hemos desarrollado la estructura base y el módulo de usuarios para nuestra rép
 4. Implementar las diferentes vistas (lista, kanban, etc.)
 
 
-# Implementar el módulo de espacios de trabajo (workspaces).
+# Parte 2: Implementar el módulo de espacios de trabajo (workspaces).
 
 Para implementar el módulo de espacios de trabajo (workspaces), necesitaremos desarrollar código adicional. Lo que te he proporcionado hasta ahora es la estructura base y el módulo de usuarios, pero el módulo de workspaces requiere sus propios componentes.
 
@@ -703,6 +703,8 @@ No es simplemente integrar los códigos actuales, sino desarrollar nuevos compon
 
 Ahora vamos a diseñar el pseudocódigo para el módulo de espacios de trabajo (workspaces) antes de implementarlo. Esto nos ayudará a tener una visión clara de lo que necesitamos desarrollar.
 
+
+Para no extender tanto este documento he creado uno propio para la Parte 2:
 
 [Ir al Workspace](https://github.com/FranciscoReyne/ClickDown/blob/main/2_WorkSpaces)
 
