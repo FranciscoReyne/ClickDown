@@ -1,7 +1,8 @@
 # ClickDown
-ClickDown es una aplicación python opensource para gestion online de trabajos en equipo.
 
-por FranciscoReyne
+**ClickDown es una aplicación python opensource para gestion online de trabajos en equipo.**
+
+*por FranciscoReyne*
 
 ---
 *ATENCIÓN !!!: ESTE PROYECTO ESTÁ EN CONSTRUCCIÓN.-*
@@ -9,7 +10,7 @@ por FranciscoReyne
 
 Para desarrollar una réplica modular de ClickUp en Python. Primero, te presentaré el pseudocódigo general y luego podemos ir desarrollando cada sección.
 
-## Pseudocódigo de réplica de ClickUp
+### Pseudocódigo de réplica de ClickUp
 
 ```
 1. SISTEMA BASE
