@@ -1,3 +1,20 @@
+
+# Parte 3: Implementar el módulo de espacios de trabajo (workspaces).
+
+Para implementar el módulo de espacios de trabajo (workspaces), necesitaremos desarrollar código adicional. Lo que te he proporcionado hasta ahora es la estructura base y el módulo de usuarios, pero el módulo de workspaces requiere sus propios componentes.
+
+### Específicamente, necesitaremos crear:
+
+- Modelo de Workspace: Un nuevo archivo en la carpeta models que defina la estructura de datos para los espacios de trabajo, incluyendo relaciones con usuarios y proyectos.
+- Servicio de Workspace: Lógica de negocio para crear, leer, actualizar y eliminar espacios de trabajo, así como gestionar miembros.
+- API de Workspace: Endpoints REST para interactuar con los espacios de trabajo.
+- Tabla de relación: Para manejar la relación muchos-a-muchos entre usuarios y espacios (ya que un usuario puede pertenecer a varios espacios y un espacio puede tener varios miembros).
+- Actualizar referencias: Modificar algunos archivos existentes para integrar las relaciones con el módulo de usuarios que ya hemos creado.
+
+No es simplemente integrar los códigos actuales, sino desarrollar nuevos componentes que se conectarán con la estructura que ya tenemos. El código actual proporciona la base sobre la cual construiremos los nuevos módulos de forma incremental.
+
+---
+
 ## Pseudocódigo para Módulo de Espacios de Trabajo (Workspaces).
 
 ### 1. Modelo de Workspace (workspace.py)
